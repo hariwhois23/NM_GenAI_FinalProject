@@ -33,6 +33,9 @@ Our experiments demonstrate the effectiveness of deep learning models in predict
 - Develop a user-friendly interface for real-time stock value prediction.
 
 
+![image](https://github.com/hariwhois23/NM_GenerativeAI_FinalProject/assets/117026847/27aa8bd4-0813-415c-8a93-428ed780022d)
+
+
 
 ## Acknowledgments
 We would like to thank the open-source community for their valuable contributions to the field of deep learning and financial forecasting.
