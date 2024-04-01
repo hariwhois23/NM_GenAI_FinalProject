@@ -1,5 +1,7 @@
 # Stock Value Prediction with Deep Learning
 
+![image](https://github.com/hariwhois23/NM_GenerativeAI_FinalProject/assets/117026847/f5d3bb2c-2ba7-4170-87c3-2d9eba2a15b8)
+
 ## Overview
 This project aims to predict stock values using deep learning techniques. By leveraging historical stock data and various neural network architectures, we attempt to forecast future stock prices accurately.
 
